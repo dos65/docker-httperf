@@ -1,5 +1,5 @@
 # docker-httperf
-builded from https://github.com/rtCamp/httperf
+built from https://github.com/rtCamp/httperf
 
 [Httperf home page](http://www.hpl.hp.com/research/linux/httperf/)
 
